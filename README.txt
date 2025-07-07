@@ -5,7 +5,7 @@ Description
 This project is part of a physics unit and includes a digital extension to support and complement the main content. The goal is to help students understand the core concepts through interactive or additional digital materials.
 
 Contents
-1 Webite about Climate
+1 Website about Climate
 
 How to Use
 1. Open https://tmg-e35657.github.io/Physik_Plakat01/ in your Browser and explore the digital extensions.
